@@ -1,11 +1,4 @@
 # Hi there 👋 I'm Sam
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sxmimhd&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sxmimhd&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxmimhd&layout=compact&theme=tokyonight)
 
 ### 🎮 AI Engineer • Game Developer • Full-Stack Developer
 
