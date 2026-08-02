@@ -1,122 +1,167 @@
-# Hi there 👋 I'm Sam
+<p align="center">
+  <img src="xx.gif" width="220">
+</p>
 
-### 🎮 AI Engineer • Game Developer • Full-Stack Developer
+<h1 align="center"> Hey, I'm Sam </h1>
+<h3 align="center">AI Engineer • Game Developer • Full-Stack Developer</h3>
 
-I'm a software engineer focused on building intelligent applications, immersive games, and scalable web platforms.
-
-My work combines **Artificial Intelligence**, **Game Development**, and **Modern Web Technologies** to create products that are both technically robust and enjoyable to use.
-
----
-
-## 🚀 About Me
-
-🎮 **Game Development**
-- Unity (C#)
-- Unreal Engine (Blueprints & C++)
-- Gameplay Programming
-- UI Systems
-- AI for Games
-- 2D & 3D Development
-- WebGL Deployment
-- Performance Optimization
-
-🤖 **Artificial Intelligence**
-- Machine Learning
-- Deep Learning
-- LLM Applications
-- AI Model Development
-- Computer Vision
-- Data Analysis
-- Data Visualization
-- Prompt Engineering
-- AI Automation
-- Python Ecosystem
-
-🌐 **Web & Mobile Development**
-- Full Stack Web Applications
-- REST APIs
-- Authentication Systems
-- Payment Integrations
-- Responsive UI/UX
-- Cross-platform Applications
+<p align="center">
+Building intelligent systems, immersive games, and modern web applications.
+</p>
 
 ---
+<table>
+<tr>
 
-## 🛠 Tech Stack
+<td valign="top" width="33%">
 
-### Languages
+<h2 align="center">🤖 AI Engineering</h2>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<h4>Machine Learning</h4>
 
-### Game Development
+<ul>
+<li>Data Analysis & Visualization</li>
+<li>SQL Analytics</li>
+<li>Feature Engineering</li>
+<li>Regression & Classification</li>
+<li>Clustering & Segmentation</li>
+<li>Recommendation Systems</li>
+<li>Model Evaluation</li>
+</ul>
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+<h4>Deep Learning</h4>
 
-### AI & Data
+<ul>
+<li>Neural Networks</li>
+<li>Computer Vision</li>
+<li>Natural Language Processing</li>
+<li>Transfer Learning</li>
+<li>PyTorch Development</li>
+</ul>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<h4>Generative AI</h4>
 
-### Frontend
+<ul>
+<li>Large Language Models (LLMs)</li>
+<li>Vision Language Models (VLMs)</li>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Semantic Search</li>
+<li>Embeddings & FAISS</li>
+<li>AI Agents & Tool Calling</li>
+<li>Prompt Engineering</li>
+<li>Local AI Applications</li>
+<li>AI Automation</li>
+</ul>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h4>Technologies</h4>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+</td>
 
-### Databases
+<td valign="top" width="33%">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<h2 align="center">🎮 Game Development</h2>
 
-### Tools
+<h4>Engines</h4>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<ul>
+<li>Unity (C#)</li>
+<li>Unreal Engine (Blueprints & C++)</li>
+</ul>
 
+<h4>Gameplay Programming</h4>
+
+<ul>
+<li>Game Architecture</li>
+<li>Gameplay Systems</li>
+<li>Dialogue Systems</li>
+<li>Inventory Systems</li>
+<li>Quest Systems</li>
+<li>Save & Load Systems</li>
+<li>AI Behaviors</li>
+<li>State Machines</li>
+<li>Physics Programming</li>
+</ul>
+
+<h4>Development</h4>
+
+<ul>
+<li>2D & 3D Development</li>
+<li>UI Systems</li>
+<li>Performance Optimization</li>
+<li>WebGL Deployment</li>
+<li>Pixel Art Workflow</li>
+</ul>
+
+<h4>Technologies</h4>
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,ps" />
+
+</td>
+
+<td valign="top" width="33%">
+
+<h2 align="center">🌐 Full Stack Development</h2>
+
+<h4>Frontend</h4>
+
+<ul>
+<li>React</li>
+<li>TypeScript</li>
+<li>JavaScript</li>
+<li>Vite</li>
+<li>Tailwind CSS</li>
+<li>Responsive UI / UX</li>
+</ul>
+
+<br>
+
+<h4>Backend</h4>
+
+<ul>
+<li>Node.js</li>
+<li>Express.js</li>
+<li>Laravel</li>
+<li>REST APIs</li>
+<li>Authentication Systems</li>
+<li>Payment Integration</li>
+</ul>
+
+<br>
+
+<h4>Databases</h4>
+
+<ul>
+<li>PostgreSQL</li>
+<li>MySQL</li>
+<li>SQLite</li>
+</ul>
+
+<br>
+
+<h4>Development Tools</h4>
+
+<ul>
+<li>Git & GitHub</li>
+<li>Docker</li>
+<li>VS Code</li>
+<li>Visual Studio</li>
+</ul>
+
+<h4>Technologies</h4>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,postgres,mysql,sqlite,docker,git,vscode" />
+
+</td>
+
+</tr>
+</table>
 ---
 
-## 💡 Areas of Interest
+# 💼 What I Build
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Machine Learning
-- Data Science
-- Computer Vision
-- Game AI
-- Gameplay Systems
-- Indie Game Development
-- Full Stack Development
-- Software Architecture
+I enjoy building intelligent software that combines Artificial Intelligence, Game Development, and Modern Web Technologies.
 
----
-
-## 📈 Current Focus
-
-- Building AI-powered applications
-- Developing Unity & Unreal Engine games
-- Creating scalable web platforms
-- Exploring modern machine learning workflows
-- Designing performant and maintainable software
-
----
-
-> *"Building software that people enjoy using, whether it's through intelligent AI systems or immersive game experiences."*
+My work ranges from data-driven machine learning solutions and autonomous AI agents to immersive games and scalable full-stack applications. I focus on writing clean, maintainable, and production-oriented software while continuously exploring emerging AI technologies.
 
