@@ -157,6 +157,7 @@ Building intelligent systems, immersive games, and modern web applications.
 
 </tr>
 </table>
+
 ---
 
 # 💼 What I Build
@@ -165,3 +166,29 @@ I enjoy building intelligent software that combines Artificial Intelligence, Gam
 
 My work ranges from data-driven machine learning solutions and autonomous AI agents to immersive games and scalable full-stack applications. I focus on writing clean, maintainable, and production-oriented software while continuously exploring emerging AI technologies.
 
+---
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+
+<h3>💼 Personal Portfolio</h3>
+
+<a href="https://sxmimhd.vercel.app">
+<img src="portfolio.png" alt="Portfolio" height="230">
+</a>
+
+</td>
+
+<td width="12"></td>
+
+<td align="center">
+
+<h3>🎮 Lyxia Studio</h3>
+
+<a href="https://lyxiastudio.vercel.app">
+<img src="lyxia.png" alt="Lyxia Studio" height="230">
+</a>
+
+</td>
+</tr>
+</table>
