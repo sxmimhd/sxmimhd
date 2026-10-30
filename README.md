@@ -9,16 +9,17 @@
 Building intelligent systems, immersive games, and modern web applications.
 </p>
 
----
-<table>
+<table width="90%">
 <tr>
-
-<td valign="top" width="33%">
+<td colspan="2" valign="top">
 
 <h2 align="center">🤖 AI Engineering</h2>
 
-<h4>Machine Learning</h4>
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
 
+<h4>Machine Learning & Data Science</h4>
 <ul>
 <li>Data Analysis & Visualization</li>
 <li>SQL Analytics</li>
@@ -26,139 +27,126 @@ Building intelligent systems, immersive games, and modern web applications.
 <li>Regression & Classification</li>
 <li>Clustering & Segmentation</li>
 <li>Recommendation Systems</li>
-<li>Model Evaluation</li>
+<li>Model Evaluation & Optimization</li>
 </ul>
 
-<h4>Deep Learning</h4>
+</td>
+<td valign="top" width="33%">
 
+<h4>Deep Learning & Computer Vision</h4>
 <ul>
 <li>Neural Networks</li>
-<li>Computer Vision</li>
-<li>Natural Language Processing</li>
-<li>Transfer Learning</li>
 <li>PyTorch Development</li>
+<li>Convolutional Neural Networks</li>
+<li>Image Classification & Object Detection</li>
+<li>Semantic Segmentation</li>
+<li>Video Processing & Object Tracking</li>
+<li>Transfer Learning</li>
 </ul>
 
-<h4>Generative AI</h4>
+</td>
+<td valign="top" width="33%">
 
+<h4>Generative AI & LLM Engineering</h4>
 <ul>
 <li>Large Language Models (LLMs)</li>
 <li>Vision Language Models (VLMs)</li>
 <li>Retrieval-Augmented Generation (RAG)</li>
-<li>Semantic Search</li>
-<li>Embeddings & FAISS</li>
+<li>Embeddings & Vector Search</li>
+<li>Hybrid Retrieval Systems</li>
 <li>AI Agents & Tool Calling</li>
-<li>Prompt Engineering</li>
 <li>Local AI Applications</li>
 <li>AI Automation</li>
 </ul>
 
-<h4>Technologies</h4>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+<h4 align="center">Technologies</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
+</p>
 
 </td>
+</tr>
 
-<td valign="top" width="33%">
+<tr>
+<td valign="top" width="40%" bgcolor="#000000">
 
 <h2 align="center">🎮 Game Development</h2>
 
 <h4>Engines</h4>
-
 <ul>
 <li>Unity (C#)</li>
 <li>Unreal Engine (Blueprints & C++)</li>
 </ul>
 
 <h4>Gameplay Programming</h4>
-
 <ul>
-<li>Game Architecture</li>
-<li>Gameplay Systems</li>
-<li>Dialogue Systems</li>
-<li>Inventory Systems</li>
-<li>Quest Systems</li>
+<li>Game Architecture & Systems</li>
+<li>Dialogue, Inventory & Quest Systems</li>
 <li>Save & Load Systems</li>
-<li>AI Behaviors</li>
-<li>State Machines</li>
+<li>AI Behaviors & State Machines</li>
 <li>Physics Programming</li>
 </ul>
 
 <h4>Development</h4>
-
 <ul>
 <li>2D & 3D Development</li>
 <li>UI Systems</li>
 <li>Performance Optimization</li>
 <li>WebGL Deployment</li>
-<li>Pixel Art Workflow</li>
+<li>Pixel Art Workflows</li>
 </ul>
 
 <h4>Technologies</h4>
-
+<p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,ps" />
+</p>
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="40%" bgcolor="#000000">
 
-<h2 align="center">🌐 Full Stack Development</h2>
+<h2 align="center">🌐 Full-Stack Development</h2>
 
 <h4>Frontend</h4>
-
 <ul>
 <li>React</li>
-<li>TypeScript</li>
-<li>JavaScript</li>
+<li>TypeScript & JavaScript</li>
 <li>Vite</li>
 <li>Tailwind CSS</li>
 <li>Responsive UI / UX</li>
 </ul>
 
-<br>
-
 <h4>Backend</h4>
-
 <ul>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>Laravel</li>
+<li>Python & FastAPI</li>
+<li>Node.js & Express.js</li>
+<li>Laravel & PHP</li>
 <li>REST APIs</li>
 <li>Authentication Systems</li>
 <li>Payment Integration</li>
 </ul>
 
-<br>
-
-<h4>Databases</h4>
-
+<h4>Databases & Tools</h4>
 <ul>
-<li>PostgreSQL</li>
-<li>MySQL</li>
-<li>SQLite</li>
-</ul>
-
-<br>
-
-<h4>Development Tools</h4>
-
-<ul>
+<li>PostgreSQL, MySQL & SQLite</li>
+<li>Qdrant</li>
 <li>Git & GitHub</li>
 <li>Docker</li>
-<li>VS Code</li>
-<li>Visual Studio</li>
 </ul>
 
 <h4>Technologies</h4>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,postgres,mysql,sqlite,docker,git,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,php,postgres,mysql,sqlite,docker,git" />
+</p>
 
 </td>
-
 </tr>
 </table>
 
----
 
 # 💼 What I Build
 
