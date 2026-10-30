@@ -72,7 +72,7 @@ Building intelligent systems, immersive games, and modern web applications.
 </tr>
 
 <tr>
-<td valign="top" width="40%" bgcolor="#000000">
+<td valign="top" width="50%" bgcolor="#000000">
 
 <h2 align="center">🎮 Game Development</h2>
 
@@ -107,7 +107,7 @@ Building intelligent systems, immersive games, and modern web applications.
 
 </td>
 
-<td valign="top" width="40%" bgcolor="#000000">
+<td valign="top" width="50%" bgcolor="#000000">
 
 <h2 align="center">🌐 Full-Stack Development</h2>
 
