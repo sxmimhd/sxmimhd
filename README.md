@@ -116,10 +116,7 @@ Building intelligent systems, immersive games, and modern web applications.
 <li>Responsive UI / UX</li>
 </ul>
 
-<br>
-
 <h4>Backend</h4>
-
 <ul>
 <li>Node.js</li>
 <li>Express.js</li>
@@ -129,8 +126,6 @@ Building intelligent systems, immersive games, and modern web applications.
 <li>Payment Integration</li>
 </ul>
 
-<br>
-
 <h4>Databases</h4>
 
 <ul>
@@ -139,8 +134,6 @@ Building intelligent systems, immersive games, and modern web applications.
 <li>SQLite</li>
 <li>Qdrant</li>
 </ul>
-
-<br>
 
 <h4>Development Tools</h4>
 
